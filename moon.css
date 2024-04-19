@@ -1,0 +1,365 @@
+.pagewrap
+{
+	 width: 980px;
+   margin: 0px;
+   padding: 0px;
+}
+.fon1 {
+position: absolute;
+width: 100%;
+height: 699px;
+left: 0px;
+top: 0px;
+background: #222222;
+}
+.logo1{
+position: absolute;
+width: 62px;
+height: 62px;
+left: 90px;
+top: 40px;
+background: url(logo.png);
+}
+.company{
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 130px;
+top: 25px;
+}
+.cotalog{
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 230px;
+top: 25px;
+}
+.contacts{
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 330px;
+top: 25px;
+}
+.moon{
+	position: absolute;
+width: 100%;
+height: 100%;
+left: 950px;
+top: 100spx;
+}
+.pochta{
+position: absolute;
+width: 17px;
+height: 12px;
+left: 380px;
+top: -40px;
+
+
+}
+.phone{
+position: absolute;
+width: 17px;
+height: 17px;
+left: 40px;
+top: -2px;
+}
+.nalunu{
+	font-size: 40px;
+	color: white;
+position: absolute;
+width: 235.68px;
+height: 85.26px;
+
+left: 150px;
+top: 200px;
+}
+.iobratno{
+	font-size: 40px;
+		color: white;
+position: absolute;
+width: 235.68px;
+height: 85.26px;
+left: 150px;
+top: 250px;
+}
+.cosmos{
+color: white;
+position: absolute;
+width: 250.54px;
+height: 51.46px;
+left: 150.26px;
+top: 330px;
+}
+.pacet{
+color: white;
+position: absolute;
+width: 250.54px;
+height: 51.46px;
+left: 150px;
+top: 350px;
+}
+.po{
+color: white;
+position: absolute;
+width: 250.54px;
+height: 51.46px;
+left: 150px;
+top: 370px;
+}
+.b{
+color: black;
+text-align:left;
+position: absolute;
+width: 150px;
+height: 20px;
+left: -875px;
+top: 400px;
+ background: #000;
+ padding: 10px 40px;
+ text-decoration: none;
+background: #FFCB06;
+ font-size: 15px;
+ border-radius: 75px;
+}
+.arrow{
+position: relative;
+width: 19px;
+height: 16px;
+left: 100px;
+top: 487px;
+}
+.fon2{
+position: absolute;
+width: 100%;
+height: 300px;
+left: 0px;
+top: 699px;
+background: #131313;
+}
+
+
+.photo1{
+position: absolute;
+width: 60px;
+height: 68px;
+left: 100px;
+top: 85px;
+}
+.photo2{
+position: absolute;
+width: 60px;
+height: 68px;
+left: 350px;
+top: 0px;
+}
+.photo3	{	
+position: absolute;
+width: 60px;
+height: 68px;
+left:	350px;
+top: 0px;
+}
+.photo4{
+position: absolute;
+width: 60px;
+height: 68px;
+left: 300px;
+top: 0px;
+}
+.c{
+width: 170px;
+color: white;
+left: 100px;
+top: 100px;
+}
+.z{
+width: 170px;
+color: white;
+left: 100px;
+top: 100px;
+}
+.x{
+width: 170px;
+color: white;
+left: 100px;
+top: 100px;
+}
+.v{
+width: 170px;
+color: white;
+left: 100px;
+top: 100px;
+}
+
+.fon3{
+position: absolute;
+width: 100%;
+height: 1000px;
+left: 0px;
+top: 1020px;
+background: #FFFFFF;
+}
+.map{
+position: relative;
+width: 600px;
+height: 350px;
+left: 160px;
+top: 80px;
+}
+.r{
+
+font-size: 30px;
+color: black;
+position: relative;
+width: 800px;
+height: 5px;
+left: 500px;
+top: -360px;
+letter-spacing: 10px;
+}
+.e{
+width: 800px;
+height: 5px;
+color: black;
+position: relative;
+left: 500px;
+top: -300px;
+font-size: 20px;
+letter-spacing: 3px;
+}
+.t{
+position: relative;
+width: 375px;
+height: 100px;
+left: 160px;
+top: -260px;
+line-height: 5px;
+}
+.y{
+position: relative;
+width: 400px;
+height: 4px;
+left: 191px;
+top: -350px;
+}
+.u{
+position: absolute;
+width: 400px;
+height: 20px;
+left: 900px;
+top: 600px;
+}
+.i{
+position: relative;
+width: 500px;
+height: 5px;
+left: 800px;
+top: 700px;
+}
+.fon4 {
+
+
+position: absolute;
+width: 100%;
+height: 354px;
+left: 0px;
+top: 1828px;
+
+background: #131313;
+
+}
+.logo2{
+
+position: absolute;
+width: 62px;
+height: 62px;
+left: 90px;
+top: 40px;
+background: url(logo.png);
+
+}
+.compan{
+	text-transform: uppercase;
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 360px;
+top: 25px;
+}
+.cotalo{
+	text-transform: uppercase;
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 660px;
+top: 25px;
+}
+.contact{
+	text-transform: uppercase;
+color: white;
+position: absolute;
+width: 68.92px;
+height: 10.39px;
+left: 960px;
+top: 25px;
+}
+.compannn{
+	font-size: 15px;
+color: white;
+position: absolute;
+width: 100px;
+height: 10.39px;
+left: 60px;
+top: 25px;
+
+}
+.co{
+	font-size: 15px;
+color: white;
+position: absolute;
+width: 10px;
+height: 10px;
+left: 360px;
+top: 100px;
+line-height: 50px;
+
+}
+.cn{
+	font-size: 15px;
+color: white;
+position: absolute;
+width: 10px;
+height: 10px;
+left: 660px;
+top: 100px;
+line-height: 50px;
+
+}
+.ca{
+	font-size: 15px;
+color: white;
+position: absolute;
+width: 140px;
+height: 10px;
+left: 960px;
+top: 100px;
+line-height: 50px;
+
+}
+.ooo{
+	font-size: 15px;
+color: white;
+position: absolute;
+width: 162px;
+height: 10px;
+left: -10px;
+top: 100px;
+letter-spacing: 1px;
+
+}
